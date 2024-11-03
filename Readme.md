@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Bayram Akan
 
-I’m an **Electronic and Computer Engineering student** at Dublin City University with a passion for technology, mobile app development, and embedded systems. I also run a mobile development agency, [AKES](https:akes.co), where we create innovative applications with a focus on UI/UX design and cross-platform functionality.
+I’m an **Electronic and Computer Engineering student** at Dublin City University with a passion for technology, mobile app development, and embedded systems. I also run a mobile development agency, AKES, where we create innovative applications with a focus on UI/UX design and cross-platform functionality.
 
 ---
 
