@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Bayram Akan  
 
-<!--
-**akancodes/akancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year Electronic & Computer Engineering student  
+💡 Building things that blend **hardware**, **software**, and **design**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 About Me  
+I'm focused on **3D modeling & printing**, **embedded systems**, **circuit design**, **programming**, and the **math & physics** behind them.  
+
+Co-founder of [AKES](https://akes.co) — building innovative **apps and digital solutions**.  
+
+---
+
+### ⚙️ Tech Stack  
+**Languages:** C++, Python, Rust, TypeScript  
+**Hardware:** Arduino, ESP32, STM32  
+**Design:** Fusion 360, KiCad, Blender  
+**Web:** React, Next.js  
+
+---
+
+### 📊 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=akancodes&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akancodes&layout=compact&theme=tokyonight)
+
+---
+
+⭐ _Always building, always learning._
