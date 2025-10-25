@@ -20,10 +20,4 @@ Co-founder of [AKES](https://akes.co) — building innovative **apps and digital
 
 ---
 
-### 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=akancodes&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akancodes&layout=compact&theme=tokyonight)
-
----
-
 ⭐ _Always building, always learning._
